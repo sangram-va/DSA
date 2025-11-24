@@ -10,5 +10,7 @@ class SumWithoutPlusSign
         System.out.println(2- -3); // output 5 
         // first '-' is binary operator and second is unary which makes 3 as -3 
         // internally they both addup and acts like sum 
+
+        // we have many types of operators we will see in future 
     }
 }
